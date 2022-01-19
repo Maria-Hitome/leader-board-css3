@@ -133,7 +133,7 @@ mobile devices
     .container{
         width: 100%;
     }
-    .players, .courses{
+    .players, .blogs, .courses{
         background-color: palegoldenrod;
         grid-template-columns: repeat(2, 1fr);
     }
